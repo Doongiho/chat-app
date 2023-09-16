@@ -1,10 +1,14 @@
 Initialize : 프로젝트 구조 생성에 대한 커밋
-feat : 새로운 기능에 대한 커밋
-fix : 버그 수정에 대한 커밋
-build : 빌드 관련 파일 수정에 대한 커밋
-chore : 그 외 자잘한 수정에 대한 커밋
-ci : CI관련 설정 수정에 대한 커밋
-docs : 문서 수정에 대한 커밋
-style : 코드 스타일 혹은 포맷 등에 관한 커밋
-refactor :  코드 리팩토링에 대한 커밋
-test : 테스트 코드 수정에 대한 커밋
+feat: 새로운 기능 추가
+fix: 버그 수정
+docs: 문서 수정
+style: 코드 스타일 변경 (코드 포매팅, 세미콜론 누락 등)
+design: 사용자 UI 디자인 변경 (CSS 등)
+test: 테스트 코드, 리팩토링 (Test Code)
+refactor: 리팩토링 (Production Code)
+build: 빌드 파일 수정
+ci: CI 설정 파일 수정
+perf: 성능 개선
+chore: 자잘한 수정이나 빌드 업데이트
+rename: 파일 혹은 폴더명을 수정만 한 경우
+remove: 파일을 삭제만 한 경우
